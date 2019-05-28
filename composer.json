@@ -1,0 +1,21 @@
+{
+  "name": "nookery/random-select-by-weight",
+  "type": "library",
+  "description": "",
+  "keywords": ["random"],
+  "homepage": "https://github.com/nookery/random-select-by-weight",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "authors": [
+      {
+          "name": "nookery"
+      }
+  ],
+  "autoload": {
+    "files": [
+        "src/RandomSelectByWeight.php"
+    ]
+  }
+}
